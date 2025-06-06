@@ -50,5 +50,5 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=just277&theme=algolia&no-frame=true&margin-w=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=justt277&theme=algolia&no-frame=true&margin-w=10" alt="Trophies"/>
 </p>
