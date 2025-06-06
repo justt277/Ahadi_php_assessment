@@ -26,8 +26,8 @@
 ## ⚡ Where to Find Me
 
 - 📸 [Instagram](https://www.instagram.com/_ai_justice999)
-- 📫 [Email](mailto:your.email@example.com)
-- 🌐 [Portfolio](https://yourwebsite.com)
+- 📫 [Email](mailto: emmadi750@gmail.com)
+
 
 ---
 
